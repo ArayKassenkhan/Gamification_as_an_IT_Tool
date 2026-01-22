@@ -1,0 +1,42 @@
+Search Strategy for the Systematic Review
+----------------------------------------
+
+This systematic review followed the PRISMA 2020 guidelines.
+
+Databases searched:
+- Web of Science (Core Collection)
+- Scopus
+- IEEE Xplore
+- ACM Digital Library
+- ScienceDirect
+- SpringerLink
+
+Timeframe:
+January 2020 – December 2025
+
+Language:
+English
+
+Search fields:
+Title, Abstract, Keywords
+
+Core search string:
+("gamification" OR "game-based learning" OR "educational games")
+AND
+("critical thinking" OR "cognitive skills" OR "cognitive engagement" OR "higher-order thinking")
+AND
+("education" OR "learning" OR "teaching")
+AND
+("artificial intelligence" OR "AI" OR "adaptive learning" OR "personalized learning" OR "learning analytics" OR "neurotechnology")
+
+Database-specific adaptations:
+Search strings were adapted to the syntax and indexing rules of each database while preserving semantic equivalence.
+
+Additional sources:
+- Reference lists of relevant review articles
+- Backward and forward citation tracking
+
+Search date:
+Final search conducted on [insert exact date]
+
+All retrieved records were exported in RIS/BibTeX format and processed for screening.
