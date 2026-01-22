@@ -27,4 +27,4 @@ The materials are shared for academic and verification purposes under a CC BY 4.
 
 ## Contact
 For questions regarding the dataset or methodology, please contact:
-[Your email]
+a.kassenkhan@satbayev.university
