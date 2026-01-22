@@ -1,0 +1,23 @@
+Inclusion and Exclusion Criteria
+--------------------------------
+
+Inclusion Criteria:
+1. Peer-reviewed journal articles.
+2. Published between 2020 and 2025.
+3. Written in English.
+4. Focus on gamification or game-based learning in educational contexts.
+5. Explicit discussion of cognitive outcomes (e.g., critical thinking, cognitive engagement, problem solving).
+6. Empirical studies, systematic reviews, or well-founded conceptual/theoretical papers.
+7. Studies involving AI, adaptive systems, learning analytics, or emerging educational technologies.
+
+Exclusion Criteria:
+1. Conference abstracts, posters, editorials, book reviews, or opinion pieces.
+2. Studies not related to education or learning contexts.
+3. Papers focusing solely on entertainment games without educational intent.
+4. Studies reporting only motivational or affective outcomes without cognitive dimensions.
+5. Non-English publications.
+6. Duplicate records across databases.
+7. Papers without accessible full text.
+
+Application of criteria:
+Inclusion and exclusion criteria were applied during title/abstract screening and full-text review stages by the author. Disagreements or ambiguities were resolved through iterative reassessment.
